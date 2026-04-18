@@ -1,0 +1,17 @@
+module qs.Modals
+
+AppPickerModal 1.0 AppPickerModal.qml
+BluetoothPairingModal 1.0 BluetoothPairingModal.qml
+BrowserPickerModal 1.0 BrowserPickerModal.qml
+DankColorPickerModal 1.0 DankColorPickerModal.qml
+DisplayConfirmationModal 1.0 DisplayConfirmationModal.qml
+KeybindsModal 1.0 KeybindsModal.qml
+NetworkInfoModal 1.0 NetworkInfoModal.qml
+NetworkWiredInfoModal 1.0 NetworkWiredInfoModal.qml
+NotificationModal 1.0 NotificationModal.qml
+PolkitAuthModal 1.0 PolkitAuthModal.qml
+PowerMenuModal 1.0 PowerMenuModal.qml
+ProcessListModal 1.0 ProcessListModal.qml
+WifiPasswordModal 1.0 WifiPasswordModal.qml
+WindowRuleModal 1.0 WindowRuleModal.qml
+WorkspaceRenameModal 1.0 WorkspaceRenameModal.qml

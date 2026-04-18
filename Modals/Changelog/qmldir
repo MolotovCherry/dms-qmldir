@@ -1,0 +1,6 @@
+module qs.Modals.Changelog
+
+ChangelogContent 1.0 ChangelogContent.qml
+ChangelogFeatureCard 1.0 ChangelogFeatureCard.qml
+ChangelogModal 1.0 ChangelogModal.qml
+ChangelogUpgradeNote 1.0 ChangelogUpgradeNote.qml

@@ -1,0 +1,4 @@
+module qs.Modals.Common
+
+ConfirmModal 1.0 ConfirmModal.qml
+DankModal 1.0 DankModal.qml

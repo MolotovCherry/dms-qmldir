@@ -1,0 +1,4 @@
+module qs.Modules.Notifications.Popup
+
+NotificationPopup 1.0 NotificationPopup.qml
+NotificationPopupManager 1.0 NotificationPopupManager.qml

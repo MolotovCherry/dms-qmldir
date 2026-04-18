@@ -1,0 +1,34 @@
+module qs.Modules.DankBar.Widgets
+
+AppsDock 1.0 AppsDock.qml
+AppsDockContextMenu 1.0 AppsDockContextMenu.qml
+AppsDockOverflowButton 1.0 AppsDockOverflowButton.qml
+AudioVisualization 1.0 AudioVisualization.qml
+Battery 1.0 Battery.qml
+CapsLockIndicator 1.0 CapsLockIndicator.qml
+ClipboardButton 1.0 ClipboardButton.qml
+Clock 1.0 Clock.qml
+ColorPicker 1.0 ColorPicker.qml
+ControlCenterButton 1.0 ControlCenterButton.qml
+CpuMonitor 1.0 CpuMonitor.qml
+CpuTemperature 1.0 CpuTemperature.qml
+DWLLayout 1.0 DWLLayout.qml
+DiskUsage 1.0 DiskUsage.qml
+FocusedApp 1.0 FocusedApp.qml
+GpuTemperature 1.0 GpuTemperature.qml
+IdleInhibitor 1.0 IdleInhibitor.qml
+KeyboardLayoutName 1.0 KeyboardLayoutName.qml
+LauncherButton 1.0 LauncherButton.qml
+Media 1.0 Media.qml
+NetworkMonitor 1.0 NetworkMonitor.qml
+NotepadButton 1.0 NotepadButton.qml
+NotificationCenterButton 1.0 NotificationCenterButton.qml
+PowerMenuButton 1.0 PowerMenuButton.qml
+PrivacyIndicator 1.0 PrivacyIndicator.qml
+RamMonitor 1.0 RamMonitor.qml
+RunningApps 1.0 RunningApps.qml
+SystemTrayBar 1.0 SystemTrayBar.qml
+SystemUpdate 1.0 SystemUpdate.qml
+Vpn 1.0 Vpn.qml
+Weather 1.0 Weather.qml
+WorkspaceSwitcher 1.0 WorkspaceSwitcher.qml

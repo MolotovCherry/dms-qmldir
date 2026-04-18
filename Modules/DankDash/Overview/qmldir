@@ -1,0 +1,9 @@
+module qs.Modules.DankDash.Overview
+
+CalendarOverviewCard 1.0 CalendarOverviewCard.qml
+Card 1.0 Card.qml
+ClockCard 1.0 ClockCard.qml
+MediaOverviewCard 1.0 MediaOverviewCard.qml
+SystemMonitorCard 1.0 SystemMonitorCard.qml
+UserInfoCard 1.0 UserInfoCard.qml
+WeatherOverviewCard 1.0 WeatherOverviewCard.qml

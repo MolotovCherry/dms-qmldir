@@ -1,0 +1,14 @@
+module qs.Modals.FileBrowser
+
+FileBrowserContent 1.0 FileBrowserContent.qml
+FileBrowserGridDelegate 1.0 FileBrowserGridDelegate.qml
+FileBrowserListDelegate 1.0 FileBrowserListDelegate.qml
+FileBrowserModal 1.0 FileBrowserModal.qml
+FileBrowserNavigation 1.0 FileBrowserNavigation.qml
+FileBrowserOverwriteDialog 1.0 FileBrowserOverwriteDialog.qml
+FileBrowserSaveRow 1.0 FileBrowserSaveRow.qml
+FileBrowserSidebar 1.0 FileBrowserSidebar.qml
+FileBrowserSortMenu 1.0 FileBrowserSortMenu.qml
+FileBrowserSurfaceModal 1.0 FileBrowserSurfaceModal.qml
+FileInfo 1.0 FileInfo.qml
+KeyboardHints 1.0 KeyboardHints.qml

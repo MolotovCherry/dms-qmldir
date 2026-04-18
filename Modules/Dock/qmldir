@@ -1,0 +1,8 @@
+module qs.Modules.Dock
+
+Dock 1.0 Dock.qml
+DockAppButton 1.0 DockAppButton.qml
+DockApps 1.0 DockApps.qml
+DockContextMenu 1.0 DockContextMenu.qml
+DockLauncherButton 1.0 DockLauncherButton.qml
+DockOverflowButton 1.0 DockOverflowButton.qml

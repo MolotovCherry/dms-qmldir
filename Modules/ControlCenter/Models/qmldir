@@ -1,0 +1,3 @@
+module qs.Modules.ControlCenter.Models
+
+WidgetModel 1.0 WidgetModel.qml

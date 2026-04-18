@@ -1,0 +1,9 @@
+module qs.Modules.DankDash
+
+DankDashPopout 1.0 DankDashPopout.qml
+MediaDropdownOverlay 1.0 MediaDropdownOverlay.qml
+MediaPlayerTab 1.0 MediaPlayerTab.qml
+OverviewTab 1.0 OverviewTab.qml
+WallpaperTab 1.0 WallpaperTab.qml
+WeatherForecastCard 1.0 WeatherForecastCard.qml
+WeatherTab 1.0 WeatherTab.qml

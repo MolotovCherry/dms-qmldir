@@ -1,0 +1,10 @@
+module qs.Modules.Settings.DisplayConfig
+
+singleton DisplayConfigState 1.0 DisplayConfigState.qml
+HyprlandOutputSettings 1.0 HyprlandOutputSettings.qml
+IncludeWarningBox 1.0 IncludeWarningBox.qml
+MonitorCanvas 1.0 MonitorCanvas.qml
+MonitorRect 1.0 MonitorRect.qml
+NiriOutputSettings 1.0 NiriOutputSettings.qml
+NoBackendMessage 1.0 NoBackendMessage.qml
+OutputCard 1.0 OutputCard.qml

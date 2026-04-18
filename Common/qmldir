@@ -1,0 +1,22 @@
+module qs.Common
+
+singleton Anims 1.0 Anims.qml
+singleton AppUsageHistoryData 1.0 AppUsageHistoryData.qml
+singleton Appearance 1.0 Appearance.qml
+singleton CacheData 1.0 CacheData.qml
+singleton CacheUtils 1.0 CacheUtils.qml
+DankAnim 1.0 DankAnim.qml
+DankColorAnim 1.0 DankColorAnim.qml
+DankSocket 1.0 DankSocket.qml
+singleton I18n 1.0 I18n.qml
+singleton ListViewTransitions 1.0 ListViewTransitions.qml
+singleton ModalManager 1.0 ModalManager.qml
+singleton OSDManager 1.0 OSDManager.qml
+singleton Paths 1.0 Paths.qml
+singleton PopoutManager 1.0 PopoutManager.qml
+singleton Proc 1.0 Proc.qml
+Ref 1.0 Ref.qml
+singleton SessionData 1.0 SessionData.qml
+singleton SettingsData 1.0 SettingsData.qml
+singleton Theme 1.0 Theme.qml
+singleton TrayMenuManager 1.0 TrayMenuManager.qml

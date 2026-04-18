@@ -1,0 +1,17 @@
+module qs.Modules.Plugins
+
+BasePill 1.0 BasePill.qml
+ColorSetting 1.0 ColorSetting.qml
+DesktopPluginComponent 1.0 DesktopPluginComponent.qml
+DesktopPluginWrapper 1.0 DesktopPluginWrapper.qml
+ListSetting 1.0 ListSetting.qml
+ListSettingWithInput 1.0 ListSettingWithInput.qml
+PluginComponent 1.0 PluginComponent.qml
+PluginControlCenterWrapper 1.0 PluginControlCenterWrapper.qml
+PluginPopout 1.0 PluginPopout.qml
+PluginSettings 1.0 PluginSettings.qml
+PopoutComponent 1.0 PopoutComponent.qml
+SelectionSetting 1.0 SelectionSetting.qml
+SliderSetting 1.0 SliderSetting.qml
+StringSetting 1.0 StringSetting.qml
+ToggleSetting 1.0 ToggleSetting.qml

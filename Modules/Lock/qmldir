@@ -1,0 +1,13 @@
+module qs.Modules.Lock
+
+CustomButtonKeyboard 1.0 CustomButtonKeyboard.qml
+FadeToDpmsWindow 1.0 FadeToDpmsWindow.qml
+FadeToLockWindow 1.0 FadeToLockWindow.qml
+Keyboard 1.0 Keyboard.qml
+KeyboardController 1.0 KeyboardController.qml
+Lock 1.0 Lock.qml
+LockPowerMenu 1.0 LockPowerMenu.qml
+LockScreenContent 1.0 LockScreenContent.qml
+LockScreenDemo 1.0 LockScreenDemo.qml
+LockSurface 1.0 LockSurface.qml
+Pam 1.0 Pam.qml

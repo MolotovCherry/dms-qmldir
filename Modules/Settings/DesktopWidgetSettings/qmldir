@@ -1,0 +1,5 @@
+module qs.Modules.Settings.DesktopWidgetSettings
+
+ClockSettings 1.0 ClockSettings.qml
+PluginDesktopWidgetSettings 1.0 PluginDesktopWidgetSettings.qml
+SystemMonitorSettings 1.0 SystemMonitorSettings.qml

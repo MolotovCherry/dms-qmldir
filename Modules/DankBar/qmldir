@@ -1,0 +1,11 @@
+module qs.Modules.DankBar
+
+AxisContext 1.0 AxisContext.qml
+BarCanvas 1.0 BarCanvas.qml
+CenterSection 1.0 CenterSection.qml
+DankBar 1.0 DankBar.qml
+DankBarContent 1.0 DankBarContent.qml
+DankBarWindow 1.0 DankBarWindow.qml
+LeftSection 1.0 LeftSection.qml
+RightSection 1.0 RightSection.qml
+WidgetHost 1.0 WidgetHost.qml

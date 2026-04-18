@@ -1,0 +1,7 @@
+module qs.Modules
+
+BlurredWallpaperBackground 1.0 BlurredWallpaperBackground.qml
+DesktopWidgetLayer 1.0 DesktopWidgetLayer.qml
+SystemUpdatePopout 1.0 SystemUpdatePopout.qml
+Toast 1.0 Toast.qml
+WallpaperBackground 1.0 WallpaperBackground.qml

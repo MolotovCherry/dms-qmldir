@@ -1,0 +1,6 @@
+module qs
+
+DMSGreeter 1.0 DMSGreeter.qml
+DMSShell 1.0 DMSShell.qml
+shell 1.0 shell.qml
+DMSShellIPC 1.0 DMSShellIPC.qml

@@ -1,0 +1,4 @@
+module qs.Modules.ControlCenter.BuiltinPlugins
+
+CupsWidget 1.0 CupsWidget.qml
+VpnWidget 1.0 VpnWidget.qml

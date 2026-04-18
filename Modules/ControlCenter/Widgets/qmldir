@@ -1,0 +1,16 @@
+module qs.Modules.ControlCenter.Widgets
+
+AudioSliderRow 1.0 AudioSliderRow.qml
+BatteryPill 1.0 BatteryPill.qml
+BrightnessSliderRow 1.0 BrightnessSliderRow.qml
+ColorPickerPill 1.0 ColorPickerPill.qml
+CompactSlider 1.0 CompactSlider.qml
+CompoundPill 1.0 CompoundPill.qml
+DetailView 1.0 DetailView.qml
+DiskUsagePill 1.0 DiskUsagePill.qml
+ErrorPill 1.0 ErrorPill.qml
+InputAudioSliderRow 1.0 InputAudioSliderRow.qml
+SmallBatteryButton 1.0 SmallBatteryButton.qml
+SmallDiskUsageButton 1.0 SmallDiskUsageButton.qml
+SmallToggleButton 1.0 SmallToggleButton.qml
+ToggleButton 1.0 ToggleButton.qml

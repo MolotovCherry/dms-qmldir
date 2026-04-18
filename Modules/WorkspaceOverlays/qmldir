@@ -1,0 +1,6 @@
+module qs.Modules.WorkspaceOverlays
+
+HyprlandOverview 1.0 HyprlandOverview.qml
+NiriOverviewOverlay 1.0 NiriOverviewOverlay.qml
+OverviewWidget 1.0 OverviewWidget.qml
+OverviewWindow 1.0 OverviewWindow.qml

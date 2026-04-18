@@ -1,0 +1,4 @@
+module qs.Common.settings
+
+singleton Lists 1.0 Lists.qml
+singleton Processes 1.0 Processes.qml

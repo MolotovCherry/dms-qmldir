@@ -1,0 +1,3 @@
+module qs.Modules.AppDrawer
+
+AppDrawerPopout 1.0 AppDrawerPopout.qml

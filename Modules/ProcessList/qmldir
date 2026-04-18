@@ -1,0 +1,8 @@
+module qs.Modules.ProcessList
+
+DisksView 1.0 DisksView.qml
+PerformanceView 1.0 PerformanceView.qml
+ProcessContextMenu 1.0 ProcessContextMenu.qml
+ProcessListPopout 1.0 ProcessListPopout.qml
+ProcessesView 1.0 ProcessesView.qml
+SystemView 1.0 SystemView.qml

@@ -1,0 +1,12 @@
+module qs.Modules.ControlCenter.Components
+
+ActionTile 1.0 ActionTile.qml
+DetailHost 1.0 DetailHost.qml
+DragDropDetailHost 1.0 DragDropDetailHost.qml
+DragDropGrid 1.0 DragDropGrid.qml
+DragDropWidgetWrapper 1.0 DragDropWidgetWrapper.qml
+EditControls 1.0 EditControls.qml
+HeaderPane 1.0 HeaderPane.qml
+PowerButton 1.0 PowerButton.qml
+SizeControls 1.0 SizeControls.qml
+Typography 1.0 Typography.qml

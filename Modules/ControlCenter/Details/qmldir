@@ -1,0 +1,10 @@
+module qs.Modules.ControlCenter.Details
+
+AudioInputDetail 1.0 AudioInputDetail.qml
+AudioOutputDetail 1.0 AudioOutputDetail.qml
+BatteryDetail 1.0 BatteryDetail.qml
+BluetoothCodecSelector 1.0 BluetoothCodecSelector.qml
+BluetoothDetail 1.0 BluetoothDetail.qml
+BrightnessDetail 1.0 BrightnessDetail.qml
+DiskUsageDetail 1.0 DiskUsageDetail.qml
+NetworkDetail 1.0 NetworkDetail.qml

@@ -1,0 +1,6 @@
+module qs.Modals.Settings
+
+ProfileSection 1.0 ProfileSection.qml
+SettingsContent 1.0 SettingsContent.qml
+SettingsModal 1.0 SettingsModal.qml
+SettingsSidebar 1.0 SettingsSidebar.qml

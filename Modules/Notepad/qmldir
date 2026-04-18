@@ -1,0 +1,6 @@
+module qs.Modules.Notepad
+
+Notepad 1.0 Notepad.qml
+NotepadSettings 1.0 NotepadSettings.qml
+NotepadTabs 1.0 NotepadTabs.qml
+NotepadTextEditor 1.0 NotepadTextEditor.qml

@@ -1,0 +1,7 @@
+module qs.Modules.Greetd
+
+singleton GreetdMemory 1.0 GreetdMemory.qml
+singleton GreetdSettings 1.0 GreetdSettings.qml
+GreeterContent 1.0 GreeterContent.qml
+singleton GreeterState 1.0 GreeterState.qml
+GreeterSurface 1.0 GreeterSurface.qml

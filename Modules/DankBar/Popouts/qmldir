@@ -1,0 +1,5 @@
+module qs.Modules.DankBar.Popouts
+
+BatteryPopout 1.0 BatteryPopout.qml
+DWLLayoutPopout 1.0 DWLLayoutPopout.qml
+VpnPopout 1.0 VpnPopout.qml

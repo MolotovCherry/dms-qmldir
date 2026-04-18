@@ -1,0 +1,11 @@
+module qs.Modals.Greeter
+
+GreeterCompletePage 1.0 GreeterCompletePage.qml
+GreeterDoctorPage 1.0 GreeterDoctorPage.qml
+GreeterDoctorResultItem 1.0 GreeterDoctorResultItem.qml
+GreeterFeatureCard 1.0 GreeterFeatureCard.qml
+GreeterModal 1.0 GreeterModal.qml
+GreeterQuickLink 1.0 GreeterQuickLink.qml
+GreeterSettingsCard 1.0 GreeterSettingsCard.qml
+GreeterStatusCard 1.0 GreeterStatusCard.qml
+GreeterWelcomePage 1.0 GreeterWelcomePage.qml

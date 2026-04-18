@@ -1,0 +1,14 @@
+module qs.Modules.Settings.Widgets
+
+DeviceAliasRow 1.0 DeviceAliasRow.qml
+SettingsButtonGroupRow 1.0 SettingsButtonGroupRow.qml
+SettingsCard 1.0 SettingsCard.qml
+SettingsColorPicker 1.0 SettingsColorPicker.qml
+SettingsDisplayPicker 1.0 SettingsDisplayPicker.qml
+SettingsDivider 1.0 SettingsDivider.qml
+SettingsDropdownRow 1.0 SettingsDropdownRow.qml
+SettingsSliderCard 1.0 SettingsSliderCard.qml
+SettingsSliderRow 1.0 SettingsSliderRow.qml
+SettingsToggleCard 1.0 SettingsToggleCard.qml
+SettingsToggleRow 1.0 SettingsToggleRow.qml
+SystemMonitorVariantCard 1.0 SystemMonitorVariantCard.qml

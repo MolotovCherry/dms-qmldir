@@ -1,0 +1,13 @@
+module qs.Modals.DankLauncherV2
+
+ActionPanel 1.0 ActionPanel.qml
+Controller 1.0 Controller.qml
+DankLauncherV2Modal 1.0 DankLauncherV2Modal.qml
+GridItem 1.0 GridItem.qml
+LauncherContent 1.0 LauncherContent.qml
+LauncherContextMenu 1.0 LauncherContextMenu.qml
+ResultItem 1.0 ResultItem.qml
+ResultsList 1.0 ResultsList.qml
+Section 1.0 Section.qml
+SectionHeader 1.0 SectionHeader.qml
+TileItem 1.0 TileItem.qml

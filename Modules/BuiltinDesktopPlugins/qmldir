@@ -1,0 +1,5 @@
+module qs.Modules.BuiltinDesktopPlugins
+
+DesktopClockWidget 1.0 DesktopClockWidget.qml
+OrganicBlobHourBulges 1.0 OrganicBlobHourBulges.qml
+SystemMonitorWidget 1.0 SystemMonitorWidget.qml

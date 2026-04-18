@@ -1,0 +1,11 @@
+module qs.Modals.Clipboard
+
+singleton ClipboardConstants 1.0 ClipboardConstants.qml
+ClipboardContent 1.0 ClipboardContent.qml
+ClipboardEntry 1.0 ClipboardEntry.qml
+ClipboardHeader 1.0 ClipboardHeader.qml
+ClipboardHistoryModal 1.0 ClipboardHistoryModal.qml
+ClipboardHistoryPopout 1.0 ClipboardHistoryPopout.qml
+ClipboardKeyboardController 1.0 ClipboardKeyboardController.qml
+ClipboardKeyboardHints 1.0 ClipboardKeyboardHints.qml
+ClipboardThumbnail 1.0 ClipboardThumbnail.qml

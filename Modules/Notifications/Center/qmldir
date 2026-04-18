@@ -1,0 +1,12 @@
+module qs.Modules.Notifications.Center
+
+HistoryNotificationCard 1.0 HistoryNotificationCard.qml
+HistoryNotificationList 1.0 HistoryNotificationList.qml
+KeyboardNavigatedNotificationList 1.0 KeyboardNavigatedNotificationList.qml
+NotificationCard 1.0 NotificationCard.qml
+NotificationCenterPopout 1.0 NotificationCenterPopout.qml
+NotificationEmptyState 1.0 NotificationEmptyState.qml
+NotificationHeader 1.0 NotificationHeader.qml
+NotificationKeyboardController 1.0 NotificationKeyboardController.qml
+NotificationKeyboardHints 1.0 NotificationKeyboardHints.qml
+NotificationSettings 1.0 NotificationSettings.qml

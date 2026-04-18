@@ -1,0 +1,14 @@
+# ignore all files
+*
+# except gitignore ... lol
+!/.gitignore
+# except qmldir files
+!**/qmldir
+# except licesne
+!/LICENSE
+# except our script
+!/make-qmldir.nu
+# ensure parent dirs are not excluded
+!*/
+# DO ignore PLUGINS dir tho
+/PLUGINS

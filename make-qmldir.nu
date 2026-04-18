@@ -21,7 +21,11 @@ for d in $dirs {
         for f in $qml_files {
             let base = ($f | path basename)
             let type_name = ($base | str replace ".qml" "")
-            $content = ($content + $"($type_name) 1.0 ($base)\n")
+
+            let is_singleton = (open $f | str contains "Singleton {")
+            let singleton = if $is_singleton { "singleton " } else { "" }
+
+            $content = ($content + $"($singleton)($type_name) 1.0 ($base)\n")
         }
 
         $content | save -f $qmldir_path
